@@ -21,17 +21,17 @@
 * Drawing
 * Travel
 * Watching movies
- * Animated movies
-  - Little mermaid
-  - Rapunzel
- * Horror movies 
-  - The grudge
-  - It
+   * Animated movies
+       - Little mermaid
+    - Rapunzel
+   * Horror movies 
+       - The grudge
+       - It
 * Playing video games
- * RPG 
-  - The witcher
-  - Dragon age
-  - Fable
-  - Zelda
- * Online 
-  - World of warcraft
+   * RPG 
+       - The witcher
+       - Dragon age
+       - Fable
+       - Zelda
+   * Online 
+       - World of warcraft
