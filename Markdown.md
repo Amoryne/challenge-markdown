@@ -8,7 +8,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQEDmUs3n6hdig/profile-displayphoto-shrink_800_800/0/1591164218251?e=1649289600&v=beta&t=UK6zvRj1rah1CNRjTxafUhjJRZEigQtIBq-j0vvTY1w" width="200" height="200" align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEDmUs3n6hdig/profile-displayphoto-shrink_800_800/0/1591164218251?e=1649289600&v=beta&t=UK6zvRj1rah1CNRjTxafUhjJRZEigQtIBq-j0vvTY1w" width="250" height="250">
 
 ## Junior Developper @Becode, Discrète mais sympa.
 ------------------------------------------------------
@@ -30,7 +30,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
    * |       Animated movies       |                       Horror movies |
      |:---------------------------:|-------------------------------------|
-     | <ul><li>Little mermaid</li> - <li>Rapunzel</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
+  | <ul><li>Little mermaid</li><li>Rapunzel</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
        
 * Playing video games
 
