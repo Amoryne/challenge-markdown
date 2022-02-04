@@ -16,7 +16,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 | Birthday  | Gender   | Favorite color  | Favorite food  | Pinneaple on pizza  |
 |:---------:|----------|-----------------|----------------|---------------------|
-| 09/04/97  |  Female  |    Purple       |     Pâte bolo  | <ul><li>- [x] NO</li><li>- [ ] YES</li></ul> | 
+| 09/04/94  |  Female  |    Purple       |     Pâte bolo  | <ul><li>- [x] NO</li><li>- [ ] YES</li></ul> | 
 
 
 ### Hobbies
@@ -30,7 +30,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
    * |       Animated movies       |                       Horror movies |
      |:---------------------------:|-------------------------------------|
-  | <ul><li>Little mermaid</li><li>Rapunzel</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
+     |<ul><li>Little mermaid</li><li>Rapunzel</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
        
 * Playing video games
 
