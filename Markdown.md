@@ -30,7 +30,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
    * |       Animated movies       |                       Horror movies |
      |:---------------------------:|-------------------------------------|
-     |<ul><li>Little mermaid</li></ul> | <ul><li>- It</li><li>- The Grudge</li></ul>
+     |<ul><li>Rapunzel</li><li>Little mermaid</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
        
 * Playing video games
 
@@ -51,6 +51,8 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 - Find the better bar in any town
 
 ##### A funny story
+
+********************
 
 
 When i was younger, i want to follow my grandfather outside the restaurant, but the GLASS door was close, i pushed into it, i see all the people looking at my direction and i've pass out for long minuts
