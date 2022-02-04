@@ -11,7 +11,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 <img src="https://media-exp1.licdn.com/dms/image/C5603AQEDmUs3n6hdig/profile-displayphoto-shrink_800_800/0/1591164218251?e=1649289600&v=beta&t=UK6zvRj1rah1CNRjTxafUhjJRZEigQtIBq-j0vvTY1w" width="250" height="250">
 
 ## Junior Developper @Becode, Discrète mais sympa.
-------------------------------------------------------
+
 
 
 | Birthday  | Gender   | Favorite color  | Favorite food  | Pinneaple on pizza  |
@@ -20,6 +20,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 ### Hobbies
+-------------------------
 
 * Brazilian Jiu-Jitsu
 * Board games
@@ -43,6 +44,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 #### You can always count on me when...
+------------------------------------------
 
 
 - Find solutions   
