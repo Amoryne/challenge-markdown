@@ -8,8 +8,7 @@
 
 ## Discrète mais à l'écoute et toujours prête à aider
 
-|  Birthday  | gender | Favorite color | Favorite food | Pinneapple on pizza |
-|:---------  |:-------|:---------------|: -------------|: -------------------|
-| 09/04/1994| Female  |     Purple         Pâtes Bolo         NON no nein
-| Paragraph | Text | 
+| Birthday  | Gender   | Favorite color  | Favorite food  | Pinneaple on pizza  |
+|:---------:|----------|-----------------|----------------|---------------------|
+| 09/04/97  |  Female  |    Purple       |     Pâte bolo  |  NO                 | 
 
