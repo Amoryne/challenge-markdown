@@ -1,12 +1,16 @@
 
 # Amoryne 
 
-*Evil is Evil. Lesser, greater, middling… Makes no difference. The degree is arbitary. The definition’s blurred. If I’m to choose between one evil and another… I’d rather not choose at all.*
+*Evil is Evil. Lesser, greater, middling… Makes no difference.   
+The degree is arbitary. The definition’s blurred.   
+If I’m to choose between one evil and another… I’d rather not choose at all.*
 
 
 <img src="https://media-exp1.licdn.com/dms/image/C5603AQEDmUs3n6hdig/profile-displayphoto-shrink_800_800/0/1591164218251?e=1649289600&v=beta&t=UK6zvRj1rah1CNRjTxafUhjJRZEigQtIBq-j0vvTY1w" width="200" height="200">
 
-#### Discrète mais à l'écoute et toujours prête à aider
+#### Junior Developper @ Becode, Discrète mais sympa.
+------------------------------------------------------
+
 
 | Birthday  | Gender   | Favorite color  | Favorite food  | Pinneaple on pizza  |
 |:---------:|----------|-----------------|----------------|---------------------|
@@ -14,6 +18,7 @@
 
 
 ## Hobbies
+------------
 
 
 * Brazilian Jiu-Jitsu
@@ -22,12 +27,9 @@
 * Travel
 * Watching movies
 
-   * Animated movies
-      - Little mermaid
-      - Rapunzel
-   * Horror movies 
-       - The grudge
-       - It
+   * |       Animated movies       |                       Horror movies |
+     |:---------------------------:|-------------------------------------|
+     | <ul><li>Little mermaid</li><li>Rapunzel</li></ul> | It
        
 * Playing video games
 
@@ -38,3 +40,29 @@
        - Zelda
    * Online 
        - World of warcraft
+
+
+#### You can always count on me when...
+
+- Find solutions   
+- Organization 
+- Help the others et listen her problems
+- Find the better bar in any town
+
+##### A funny story
+
+Une fois en sortant d'un bar j'ai fais un signe de la main au barman   
+ car je pensais qu'il me faisait signe, mais en faite il nettoyais    
+ juste un verre en faisant de grands gestes. Et il l'a vu.
+
+###### TL;DR
+
+Awkward
+
+[<< previous](https://github.com/Amandinecarpi/Markdown-perso)  Amoryne Jolimont  [next >>](https://github.com/Nymphadorart/Challenge-Markdown)
+
+
+
+
+
+
