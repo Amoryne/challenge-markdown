@@ -20,6 +20,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 ### Hobbies
+
 -------------------------
 
 * Brazilian Jiu-Jitsu
@@ -44,6 +45,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 #### You can always count on me when...
+
 ------------------------------------------
 
 
@@ -53,6 +55,8 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 - Find the better bar in any town
 
 ##### A funny story
+
+--------------------
 
 
 
