@@ -30,7 +30,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
    * |       Animated movies       |                       Horror movies |
      |:---------------------------:|-------------------------------------|
-     |<ul><li>Little mermaid</li><li>Rapunzel</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
+     |<ul><li>Little mermaid</li></ul> | <ul><li>- It</li><li>- The Grudge</li></ul>
        
 * Playing video games
 
