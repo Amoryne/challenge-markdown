@@ -13,4 +13,25 @@
 | 09/04/97  |  Female  |    Purple       |     Pâte bolo  | <ul><li>- [x] NO</li><li>- [ ] YES</li></ul> | 
 
 
+## Hobbies
 
+<ul><li>
+* Brazilian Jiu-Jitsu</li></ul>
+* Running
+* Drawing
+* Travel
+* Watching movies
+ * Animated movies
+  - Little mermaid
+  - Rapunzel
+ * Horror movies 
+  - The grudge
+  - It
+* Playing video games
+ * RPG 
+  - The witcher
+  - Dragon age
+  - Fable
+  - Zelda
+ * Online 
+  - World of warcraft
