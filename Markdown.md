@@ -20,7 +20,6 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 ### Hobbies
-------------
 
 * Brazilian Jiu-Jitsu
 * Board games
@@ -28,7 +27,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 * Travel
 * Watching movies
 
-     |       Animated movies       |                       Horror movies |
+   * |       Animated movies       |                       Horror movies |
      |:---------------------------:|-------------------------------------|
      |<ul><li>Rapunzel</li><li>Little mermaid</li></ul> | <ul><li>It</li><li>The Grudge</li></ul>
        
@@ -44,7 +43,7 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 #### You can always count on me when...
----------------------------------------------
+
 
 - Find solutions   
 - Organization 
@@ -53,7 +52,6 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 ##### A funny story
 
-********************
 
 
 When i was younger, i want to follow my grandfather outside the restaurant, but the GLASS door was close, i pushed into it, i see all the people looking at my direction and i've pass out for long minuts
