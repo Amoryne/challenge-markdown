@@ -15,8 +15,8 @@
 
 ## Hobbies
 
-<ul><li>
-* Brazilian Jiu-Jitsu</li></ul>
+
+* Brazilian Jiu-Jitsu
 * Running
 * Drawing
 * Travel
