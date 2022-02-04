@@ -60,17 +60,17 @@ If I’m to choose between one evil and another… I’d rather not choose at al
 
 
 
-When i was younger, i want to follow my grandfather outside the restaurant, but the GLASS door was close, i pushed into it, i see all the people looking at my direction and i've pass out for long minuts
+When i was younger, i want to follow my grandfather outside the restaurant, but the GLASS door was close, i run and pushed into it, i see all the people looking at my direction and i've pass out for long minuts
 
 ###### TL;DR
 
-Awkward
+Since, i never run again
 
-<p align="center">
+
 
 [<< previous](https://github.com/Amandinecarpi/Markdown-perso)  Amoryne Jolimont  [next >>](https://github.com/Nymphadorart/Challenge-Markdown)
 
-</p>
+
 
 
 
